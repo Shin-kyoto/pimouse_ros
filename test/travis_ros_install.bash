@@ -2,7 +2,7 @@
 
 #required packages
 sudo pip install catkin_pkg
-sudo pip imstall empy
+sudo pip install empy
 sudo pip install pyyaml
 sudo pip install rospkg
 
